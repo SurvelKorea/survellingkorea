@@ -9,5 +9,5 @@ This project highlights the issues surrounding increased surveillance in Seoul b
 - Resources for understanding the impacts of martial law.
 
 ## Contact
-- X: [@SEOULVcoin](https://twitter.com/YOUR_TWITTER_HANDLE)
-- Website: [Insert Website Link]
+- X: [@KSurvel](https://x.com/KSurvel)
+
